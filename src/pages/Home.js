@@ -1,11 +1,11 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
+import Login from './Login'
 
 function Home() {
   return (
     <>
-      <div>hola mundo</div>
-      <Link to={'/cursos'}>hola</Link>
+      <Login />
     </>
   )
 }

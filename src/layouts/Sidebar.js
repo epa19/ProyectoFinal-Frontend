@@ -29,15 +29,7 @@ function Sidebar() {
                 History
                 </a>
             </div>
-            <div class="pusher" bis_skin_checked="1">
-                <div class="ui basic segment" bis_skin_checked="1">
-                <h3 class="ui header">Application Content</h3>
-                <p></p>
-                <p></p>
-                <p></p>
-                <p></p>
-                </div>
-            </div>
+           
         </div>
     </>
   )

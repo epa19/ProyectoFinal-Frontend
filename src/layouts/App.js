@@ -27,7 +27,7 @@ function AdminLayot() {
     <>
       <div className="d-flex">
         <div>
-          <Sidebar />
+          {/* <Sidebar /> */}
         </div>
         <div className="w-100">
           <div className="p-5">
